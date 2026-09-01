@@ -24,11 +24,8 @@ export default function Home() {
             Save and see your changes instantly.
           </li>
           <li className="tracking-[-.01em]">
-            My name is Robert and this is my first app!.
-          </li>
-          <li className="tracking-[-.01em]">
-            Updating Again!
-          </li>                       
+            This is a change for feature branch 1!
+          </li>                 
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
