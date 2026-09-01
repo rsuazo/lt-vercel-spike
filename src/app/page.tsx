@@ -25,7 +25,10 @@ export default function Home() {
           </li>
           <li className="tracking-[-.01em]">
             My name is Robert and this is my first app!.
-          </li>          
+          </li>
+          <li className="tracking-[-.01em]">
+            Updating Again!
+          </li>                       
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
