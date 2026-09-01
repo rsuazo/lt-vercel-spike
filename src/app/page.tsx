@@ -20,7 +20,7 @@ export default function Home() {
             </code>
             .
           </li>
-          <li className="tracking-[-.01em]">;
+          <li className="tracking-[-.01em]"
             THIS IS A WRONG DEPLOY! ERROR! ROLLBACK FROM HERE!
           </li>        
         </ol>
