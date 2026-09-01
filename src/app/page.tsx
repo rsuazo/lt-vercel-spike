@@ -23,7 +23,10 @@ export default function Home() {
           </li>
           <li className="tracking-[-.01em]">
             {environmentVar} is the environment variable.
-          </li>        
+          </li>     
+          <li className="tracking-[-.01em]">
+            this is change 1
+          </li>               
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
